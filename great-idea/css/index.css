@@ -233,58 +233,26 @@ a {
 	border: 1px solid green;
 	display: flex;
 	flex-direction: column;
-	align-items: ;
 	justify-content: center;
-
-
 }
 
 .middleContent {
 	display: flex;
-
+	justify-content: space-between;
 }
 
-.leftMiddle {
-	border: 1px solid red;
-
-
-}
-
-.rightmiddle {
-	border: 1px solid red;
-	width: 400px;
-
-
-}
 
 .middle-img {
 	border: 1px solid red;
 
-
 }
 
-.leftbottom {
-	border-top-color: black;
-	width: 300px;
-	padding: 40px;
-	float: left;
-
+.bottom {
+	display: flex;
 }
 
-.middlebottom {
-	width: 300px;
-	height: 300px;
-	border: 1px dotted grey;
 
-}
-
-.rightbottom {
-	border: 1px solid grey;
-	width: 300px;
-
-}
-
-<br/>.contact {
+.contact {
+	box-sizing: 60px;
 	border: 1px solid pink;
-
 }
