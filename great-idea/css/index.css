@@ -183,8 +183,7 @@ a {
 .leftTop {
 	box-sizing: 400px;
 	border: 1px solid blue;
-	margin: 0 400 0 0;
-	vertical-align: left;
+
 }
 
 .innovation {
@@ -203,8 +202,7 @@ a {
 .iod {
 	width: 300px;
 	border: 1px solid yellow;
-	margin: 30px;
-	float: left;
+
 }
 
 .button {
@@ -216,29 +214,26 @@ a {
 .rightTop {
 	box-sizing: 400px;
 	border: 1px solid green;
-	margin: 0 0 0 480px;
-	vertical-align: left;
+
 
 }
 
 .leftMiddle {
 	border: 1px solid red;
-	width: 400px;
-	float: left;
+
 
 }
 
 .rightmiddle {
 	border: 1px solid red;
 	width: 400px;
-	padding: 40px;
-	float: right;
+
 
 }
 
 .middle-img {
 	border: 1px solid red;
-	float: right;
+
 
 }
 
@@ -254,18 +249,16 @@ a {
 	width: 300px;
 	height: 300px;
 	border: 1px dotted grey;
-	position: center;
+
 }
 
 .rightbottom {
 	border: 1px solid grey;
 	width: 300px;
-	padding: 40px;
-	float: right;
+
 }
 
 <br/>.contact {
 	border: 1px solid pink;
-	float: right;
-	width: 100px;
+
 }
