@@ -156,7 +156,14 @@ h5 {
 }
 
 /* Your code starts here! */
-
+/*.flexoptionsexample{
+    display:flex;
+    flex-direction: column; 
+    justify-content:#;
+    align-items: #;
+	flex-wrap:#; 
+}
+/*
 a {
 	text-decoration: none;
 	color: grey;
